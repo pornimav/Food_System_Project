@@ -1,0 +1,117 @@
+	 .jumbotron{
+	 	  background-color: #BCED31;
+	 	  padding: 20px;
+	 	  text-align:  center;
+	 }
+	 #tagline{
+            margin-top: -15px;
+            font-style: italic;
+	 }
+
+	 ul{
+	 	list-style-type: none;
+	 	margin: 0px;
+	 	padding: 0px;
+	 	background-color: #000123;
+	 	width: 100%;
+	 	margin-top: -30px;
+	 	overflow: hidden;
+	 }
+	 li{
+	 	float: left;
+	 }
+	 li a{
+	 	  display: block;
+	 	  color: white;
+	 	  text-align: center;
+	 	  padding: 10px 20px;
+	 	  text-decoration: none;
+	 }
+	 li a:hover{
+	 	color:#000123;
+	 	background-color: gold;
+	 	text-decoration: none;
+
+	 }
+	 h3{
+	 	 margin-bottom: 30px;
+	 }
+
+	 #home_id,#aboutus_id,#burger_id,#pizza_id,#combo_id,#celebration_id,#careers_id,#contactus_id
+	 {
+	 	 padding-top: 25px;
+          box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.5);
+	 	 padding-bottom: 25px;
+
+	 }
+	 .card{
+          box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+          transition: 0.3s;
+          border-top: 20px solid gold;
+          border-radius: 0px 10x 10px 0px;
+	 }
+	 .cardcontainer{
+	 	       padding: 4px 50px;
+	 	       background-color: gold;
+	 	       padding-bottom: 20px;
+	 }
+
+	  .cardpizza{
+          box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+          transition: 0.3s;
+          border-top: 20px solid deeppink;
+          border-radius: 0px 10x 10px 0px;
+	 }
+	 .cardcontainerpizza{
+	 	       padding: 4px 50px;
+	 	       background-color:deeppink;
+	 	       padding-bottom: 20px;
+	 	       color:white;
+	 }
+
+	 .btnclass
+	 {
+        padding: 5px 15px;
+        color: white;
+        background-color: limegreen;
+        border-radius: 20px;
+        border: none;
+        width: 60%;
+	 }
+	 .row{
+	 	 margin-top: 30px;
+	 }
+
+	 .headingclass{
+	 	    color:deeppink;
+	 	    font-style: italic;
+	 }
+
+	 .well{
+	 	background-color: white;
+	 	border: 2px solid gold;
+	 	padding: 1px;
+	    }
+
+	    .qlinks{
+	    	   padding: 20px;
+	    	   padding-left: 50px;
+	    	   color:gold;
+
+	    }
+	    .footer{
+	    	  background-color: #333;
+	    }
+
+	    .footer_anchor_tag
+	    {
+         color:white;
+         padding-bottom: 10px;
+         font-size: 16px;
+	    	 text-decoration: none;
+
+	    }
+	    .footer_anchor_tag:hover{
+	    	 color: blue;
+	    	 text-decoration: none;
+	    }
